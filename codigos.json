@@ -1,1 +1,5 @@
-[]
+{
+    "123456": "Teste.com/player_api.php?username=Teste&password=Teste",
+    "telefone_123456": "Telefone teste",
+    "appname_123456": ""
+}
